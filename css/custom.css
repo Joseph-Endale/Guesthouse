@@ -1,2 +1,48 @@
 
 /** ADD YOUR AWESOME CODES HERE **/
+
+
+.hero-header {
+    font-family: 'Montserrat' !important;
+    text-transform: uppercase;
+}
+
+.hero-header h2 {
+    font-weight: 700 !important;
+}
+
+.lead {
+    font-family: 'Montserrat' !important;
+    font-weight: 400 !important;    
+}
+
+.centering-para {
+    text-align: justify !important;
+    position: relative;
+    left: 20px;
+}
+
+.costomizied-card {
+    font-family: 'Montserrat' !important;
+    font-size: 40px !important;
+    text-align: center;
+    position: relative;
+    top: 50px;
+}
+
+.costomizied-card--desc {
+    font-family: 'Montserrat' !important;
+    font-size: 20px !important;
+    text-align: center;
+    line-height: 6;
+    letter-spacing: 2px ;
+}
+
+.costomizied-card--price {
+    font-size: 50px !important;
+    font-weight: 300 !important;
+    position: relative !important;
+
+
+  
+}
