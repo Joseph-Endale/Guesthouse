@@ -443,7 +443,7 @@ button:focus{
 .why-text p{
 	color: #ffffff;
 	font-size: 18px;
-	border-bottom: 1px dashed #010101;
+	/* border-bottom: 1px dashed #010101; */
 	margin: 0px;
 	padding-bottom: 15px;
 	margin-top: 15px;
